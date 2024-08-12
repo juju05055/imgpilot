@@ -1,3 +1,8 @@
+# Install web dependencies
+npm install
+
+# Install server dependencies
+pip install -r requirements.txt -U
 <div align="center">
 <h1 align="center">ImgPilot</h1>
 
